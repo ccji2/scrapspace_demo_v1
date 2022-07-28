@@ -1,0 +1,28 @@
+{
+"ui": [
+{   
+    "label": "No Base Texture",
+    "bindingName": "NOTEXTURE",
+    "bindingType": "define"
+},
+{
+    "label": "Base Texture",
+    "bindingName": "baseTex",
+    "widget": "texture_group"
+},
+{
+    "label": "No Opacity Texture",
+    "bindingName": "NOMASK",
+    "bindingType": "define"
+},
+{
+    "label": "Opacity Texture",
+    "bindingName": "opacityTex",
+    "widget": "texture_group"
+},
+{
+    "bindingName": "baseColor",
+    "widget": "color"
+}
+]
+}
